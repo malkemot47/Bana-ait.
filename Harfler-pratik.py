@@ -1,29 +1,5 @@
-#!/usr/bin/env python
-
-print("""
-------------------------------------------------
---                                                                 -
---                    HOŞ GELDİNİZ                        --
--             BAŞLAMAK İÇİN LÜTFEN BELİRTİLEN-                  ADIMLARI YERİNE GETİRİN                                                                               -
------------------------------------------------
-""")
-print("\n""BAŞLAMAK İÇİN LÜTFEN KAYIT OLUN.")
-
-
-while True:
-                a=input("\n""Ad Soyad    :")
-                b=input("\n""Password     :")
-                d=input("\n""Onay Password    :")
-                if b==d:
-                     print("\n""Hesabınız Başarıyla Oluşturuldu.")
-                     print("\n""\n""\n""\t""\t""Hoş Geldin",a)
-                     break
-                else:
-                   	print("\n""Şifreler Eşleşmiyor.")
-                   	
-input("\n""\n""Başlamak İçin [ENTER] Tuşana Basın.""\n""\n""\n""_______________________________________""\n""\n")
-                   	
-                   	              
+#!/usr/bin/env Python
+                 	              
 print("""         
                   ========Bilgi=======
 Bilmediğiniz Soruya [pas] Deyip Geçebilirsiniz
