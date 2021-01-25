@@ -60,6 +60,6 @@ Z	  z	  Zet
 print("""
       ##########################################
               Ezberledikten Sonra Pratik
-      Yapmak İçin [harfler-pratik.py]'yi Çalıştırın
+      Yapmak İçin [Harfler-pratik.py]'yi Çalıştırın
       ##########################################
 """)
